@@ -1,0 +1,17 @@
+.form-wrapper #subscribe {
+	border: 1px;
+	margin-right: 4%;
+}
+.solution p {
+	right: 10%;
+}
+nav {
+	margin-right: 10%;
+}
+nav ul li {
+	display: inline;
+}
+nav ul li a {
+	display: inline;
+	line-height: 5;
+}

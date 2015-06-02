@@ -1,0 +1,15 @@
+.form-wrapper #subscribe {
+	border: 0;
+	margin-right: 1%;
+	line-height: 24px;
+}
+.form-wrapper #email {
+	width: 89%;
+}
+nav ul li {
+	display: inline;
+}
+nav ul li a {
+	display: inline;
+	line-height: 5;
+}
